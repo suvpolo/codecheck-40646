@@ -1,4 +1,4 @@
 import sys
-from app.main import main
-
-main(sys.argv[1:])
+data1=sys.argv
+data1=sys.argv
+print("Hello ",data1[1],"!",sep="")
